@@ -1,0 +1,21 @@
+# Java and Maven Standard Patterns
+
+# Maven target directory
+*/target/
+
+# Java class files
+*.class
+
+# Eclipse specific files
+.classpath
+.project
+.settings/
+
+# VSCode specific files
+.vscode/
+
+# JAR files
+*.jar
+
+# Log files
+*.log
